@@ -1,1 +1,1 @@
-Please Note, that atleast until now is purely from [this](https://youtu.be/yP5DKzriqXA?si=p0xW9IHNqY1gsCpW) Tutorial, so make sure to check that out if you are interested I guess. Every code change after the second commit is made by me. Also this is a test
+I use this repo as reference to [this](https://youtu.be/yP5DKzriqXA?si=p0xW9IHNqY1gsCpW) Project, since I am coding my own RPG game and having this reference is pretty nice. Make sure to check that Tutorial out and my RPGGame Repo if you're curious about the RPG Game.
